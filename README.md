@@ -45,23 +45,6 @@ This project builds an end-to-end analytics pipeline to support operational deci
 * Peak demand periods experience longer trip durations, indicating congestion
 * Most trips involve single passengers, suggesting ride-sharing opportunities
 
----
-
-##  Repository Structure
-
-* `data/` → cleaned datasets used for analysis
-* `notebook/` → Jupyter notebook with preprocessing steps
-* `dashboard/` → Power BI dashboard file and exported PDF
-
----
-
-##  How To Run This Project
-
-1. Open the notebook and run preprocessing steps
-2. Load the cleaned CSV files into Power BI
-3. Open the `.pbix` file to view the dashboard
-
----
 
 ##  Dashboard Preview
 
